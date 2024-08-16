@@ -1,1 +1,1 @@
-# llm-week-05
+# LLM ZOOMCAMP WEEK 05
